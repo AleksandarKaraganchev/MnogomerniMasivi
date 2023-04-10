@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\MnogomerniMasivi\LotarienBilet\bin\Debug\LotarienBilet.exe.config
+D:\Програмиране\new tasks\MnogomerniMasivi\LotarienBilet\bin\Debug\LotarienBilet.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\LotarienBilet\bin\Debug\LotarienBilet.pdb
+D:\Програмиране\new tasks\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.pdb

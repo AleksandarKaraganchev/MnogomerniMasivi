@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\MnogomerniMasivi\Tablichki\bin\Debug\Tablichki.exe.config
+D:\Програмиране\new tasks\MnogomerniMasivi\Tablichki\bin\Debug\Tablichki.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\Tablichki\bin\Debug\Tablichki.pdb
+D:\Програмиране\new tasks\MnogomerniMasivi\Tablichki\obj\Debug\Tablichki.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\Tablichki\obj\Debug\Tablichki.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\Tablichki\obj\Debug\Tablichki.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\Tablichki\obj\Debug\Tablichki.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\Tablichki\obj\Debug\Tablichki.pdb

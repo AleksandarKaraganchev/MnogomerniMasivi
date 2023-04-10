@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\MnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\TriugulnikNaPaskal.exe.config
+D:\Програмиране\new tasks\MnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\TriugulnikNaPaskal.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\TriugulnikNaPaskal.pdb
+D:\Програмиране\new tasks\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.pdb

@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\MnogomerniMasivi\MorskiShah\bin\Debug\MorskiShah.exe.config
+D:\Програмиране\new tasks\MnogomerniMasivi\MorskiShah\bin\Debug\MorskiShah.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\MorskiShah\bin\Debug\MorskiShah.pdb
+D:\Програмиране\new tasks\MnogomerniMasivi\MorskiShah\obj\Debug\MorskiShah.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MorskiShah\obj\Debug\MorskiShah.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MorskiShah\obj\Debug\MorskiShah.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MorskiShah\obj\Debug\MorskiShah.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\MorskiShah\obj\Debug\MorskiShah.pdb

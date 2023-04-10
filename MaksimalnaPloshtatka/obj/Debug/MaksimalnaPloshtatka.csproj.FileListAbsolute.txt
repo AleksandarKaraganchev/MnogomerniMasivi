@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\MnogomerniMasivi\MaksimalnaPloshtatka\bin\Debug\MaksimalnaPloshtatka.exe.config
+D:\Програмиране\new tasks\MnogomerniMasivi\MaksimalnaPloshtatka\bin\Debug\MaksimalnaPloshtatka.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\MaksimalnaPloshtatka\bin\Debug\MaksimalnaPloshtatka.pdb
+D:\Програмиране\new tasks\MnogomerniMasivi\MaksimalnaPloshtatka\obj\Debug\MaksimalnaPloshtatka.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MaksimalnaPloshtatka\obj\Debug\MaksimalnaPloshtatka.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MaksimalnaPloshtatka\obj\Debug\MaksimalnaPloshtatka.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MaksimalnaPloshtatka\obj\Debug\MaksimalnaPloshtatka.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\MaksimalnaPloshtatka\obj\Debug\MaksimalnaPloshtatka.pdb

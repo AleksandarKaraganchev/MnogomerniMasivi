@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\MinimumPoKoloni.exe.config
+D:\Програмиране\new tasks\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\MinimumPoKoloni.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\MinimumPoKoloni\bin\Debug\MinimumPoKoloni.pdb
+D:\Програмиране\new tasks\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\MinimumPoKoloni\obj\Debug\MinimumPoKoloni.pdb

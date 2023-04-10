@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\MnogomerniMasivi\SrednoAritmetichnoPoRedove\bin\Debug\SrednoAritmetichnoPoRedove.exe.config
+D:\Програмиране\new tasks\MnogomerniMasivi\SrednoAritmetichnoPoRedove\bin\Debug\SrednoAritmetichnoPoRedove.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\SrednoAritmetichnoPoRedove\bin\Debug\SrednoAritmetichnoPoRedove.pdb
+D:\Програмиране\new tasks\MnogomerniMasivi\SrednoAritmetichnoPoRedove\obj\Debug\SrednoAritmetichnoPoRedove.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\SrednoAritmetichnoPoRedove\obj\Debug\SrednoAritmetichnoPoRedove.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\SrednoAritmetichnoPoRedove\obj\Debug\SrednoAritmetichnoPoRedove.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\SrednoAritmetichnoPoRedove\obj\Debug\SrednoAritmetichnoPoRedove.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\SrednoAritmetichnoPoRedove\obj\Debug\SrednoAritmetichnoPoRedove.pdb

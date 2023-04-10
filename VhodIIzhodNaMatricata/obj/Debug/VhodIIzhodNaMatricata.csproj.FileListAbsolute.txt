@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\MnogomerniMasivi\VhodIIzhodNaMatricata\bin\Debug\VhodIIzhodNaMatricata.exe.config
+D:\Програмиране\new tasks\MnogomerniMasivi\VhodIIzhodNaMatricata\bin\Debug\VhodIIzhodNaMatricata.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\VhodIIzhodNaMatricata\bin\Debug\VhodIIzhodNaMatricata.pdb
+D:\Програмиране\new tasks\MnogomerniMasivi\VhodIIzhodNaMatricata\obj\Debug\VhodIIzhodNaMatricata.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\VhodIIzhodNaMatricata\obj\Debug\VhodIIzhodNaMatricata.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\VhodIIzhodNaMatricata\obj\Debug\VhodIIzhodNaMatricata.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\MnogomerniMasivi\VhodIIzhodNaMatricata\obj\Debug\VhodIIzhodNaMatricata.exe
+D:\Програмиране\new tasks\MnogomerniMasivi\VhodIIzhodNaMatricata\obj\Debug\VhodIIzhodNaMatricata.pdb
